@@ -1,0 +1,8 @@
+# Terraform-specific ignores
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.zip
+*.tar.gz
+*.bak
